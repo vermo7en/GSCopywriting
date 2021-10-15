@@ -78,8 +78,9 @@ sections:
       - title: Sales Copy
         subtitle: 'Letters, calls to action, you name it.'
         content: >
-          Closing sales can seem daunting. I will make sure your copy converts
-          better and connects with your clients .
+          Closing sales can seem daunting, especially for high ticket items. I
+          will make sure your copy converts better and connects with your
+          clients.
         actions:
           - label: Learn More
             url: /about
