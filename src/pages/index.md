@@ -77,10 +77,9 @@ sections:
         media_width: sixty
       - title: Sales Copy
         subtitle: 'Letters, calls to action, you name it.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Closing sales can seem daunting. I will make sure your copy converts
+          better and connects with your clients .
         actions:
           - label: Learn More
             url: /about
