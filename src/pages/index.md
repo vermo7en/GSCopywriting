@@ -83,7 +83,7 @@ sections:
           clients.
         actions:
           - label: Learn More
-            url: /about
+            url: /faq
             style: secondary
             has_icon: true
             icon: arrow-right
