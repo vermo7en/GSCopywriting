@@ -130,7 +130,7 @@ sections:
           to use when communicating with them.
 
 
-          **Miles Tone,** *CEO, StoryStudio*
+          **Miles Tone,** *CEO, Agency*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
