@@ -143,9 +143,9 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
+      - content: >
           I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+          that suits the intention and style!
 
 
           **Gordon Norman,** *Web Designer, Local Business*
