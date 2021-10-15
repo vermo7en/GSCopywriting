@@ -43,7 +43,7 @@ sections:
           fast as you need.
       - title: What makes your copy so effective?
         content: |
-          Yes of course! I am happy to share samples on request.
+          I am so happy you asked! I simply think and grow rich.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
