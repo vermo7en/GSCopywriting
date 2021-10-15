@@ -41,7 +41,7 @@ sections:
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as
           fast as you need.
-      - title: Can you share some samples?
+      - title: What makes your copy so effective?
         content: |
           Yes of course! I am happy to share samples on request.
     grid_cols: two
