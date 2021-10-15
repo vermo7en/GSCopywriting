@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Grace.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I'm an experienced lead copywriter who is passionate about crafting
+      compelling copy for mission-driven companies.
     actions:
       - label: Contact Me
         url: /contact
