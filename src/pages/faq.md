@@ -42,11 +42,8 @@ sections:
           forth communication for technical purposes. After that, we can go as
           fast as you need.
       - title: Can you share some samples?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: |
+          Yes of course! I am happy to share samples on request.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
