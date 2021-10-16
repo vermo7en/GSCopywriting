@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hey, you!  I’m guessing you’re here because'
+    title: 'Hey, you!'
     actions: []
     image: images/image823.png
     image_alt: A smiling woman
