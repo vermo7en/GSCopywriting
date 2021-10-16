@@ -22,38 +22,6 @@ sections:
     subtitle: >-
       I write copy that sells so you can focus on the parts of your business you
       love.
-  - type: grid_section
-    title: Trusted by Companies Big and Small
-    subtitle: Who I work with
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Logo 7
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
@@ -126,6 +94,38 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: grid_section
+    title: Trusted by Companies Big and Small
+    subtitle: Who I work with
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+        image_align: center
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Logo 3
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: Logo 4
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: Logo 5
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Logo 6
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Logo 7
+        image_align: center
+      - image: images/logo-8.svg
+        image_alt: Logo 8
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
