@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Grace.'
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: images/image823.png
     image_alt: A smiling woman
     media_position: bottom
