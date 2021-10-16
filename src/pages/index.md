@@ -19,6 +19,9 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    subtitle: >-
+      I write copy that sells so you can focus on the parts of your business you
+      love.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
