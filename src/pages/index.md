@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Grace.'
-    subtitle: >-
-      I'm an experienced lead copywriter who is passionate about crafting
-      compelling copy for mission-driven companies.
     actions:
       - label: Contact Me
         url: /contact
