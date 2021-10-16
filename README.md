@@ -4,5 +4,5 @@ This is a website created using Gatsby and Stackbit, and deployed continuously u
 
 It is a simple portfolio website for a friend. 
 
-In the future I am thinking of adding a document vieweing feature for her work samples. 
+In the future we may add a document vieweing feature for her work samples. 
 
